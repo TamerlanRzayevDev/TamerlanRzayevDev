@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tamerlan
+=================================================================================================================================
 
-<!--
-**TamerlanRzayevDev/TamerlanRzayevDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Engineer
+------------
 
-Here are some ideas to get you started:
+I'm Tamerlan. An iOS Developer passionate about building secure, high-performance apps and SDKs with Swift, SwiftUI, and UIKit. I place a strong emphasis on clean architecture, strictly following SOLID principles and Clean Architecture with MVVM + Coordinators. My core toolkit includes Swift Concurrency (async/await and actors), Combine, CoreNFC, and CryptoKit for building reliable, maintainable features. I ensure code quality through comprehensive testing with XCTest, Swift Testing, and XCUITest. Always focused on shipping stable public APIs and optimizing cold start, memory, and frame rate with Instruments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Azerbaijan
+* ✉️  You can contact me at [tamerlan.rzev@gmail.com](mailto:tamerlan.rzev@gmail.com)
+
+<p align="left">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
+</p>
